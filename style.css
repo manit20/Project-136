@@ -1,0 +1,29 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size: 30px;
+    width: 100%;
+    margin: 0px;
+}
+
+p{
+    font-size: 18px;
+    color: black;
+}
+
+#object_name{
+    width: 500px;
+}
+
+
+#start, #pause, #stop, #object_found, #status, #object_name{
+    font-size: 18px;
+}
+
+canvas{
+    border: 4px solid white;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px gray;
+}
